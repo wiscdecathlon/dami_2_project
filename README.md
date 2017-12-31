@@ -1,5 +1,5 @@
 # dami_2_project
-This repository is for the DAMI2 Data Mining Project
+This repository is for the DAMI2 Data Mining Project for Nathan Brown
 
 The repository contains an R file containing the code used to run a data mining experiment with abstract as follows: 
 
