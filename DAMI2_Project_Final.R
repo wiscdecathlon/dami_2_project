@@ -602,7 +602,7 @@ cv.roc <- data.frame("prob"=numeric(),"dispo"=character())
 } 
 
 ##############################################
-####   The 24 Cross Validation Instances    ##
+####   The 32 Cross Validation Instances    ##
 ##############################################
 
 
@@ -777,7 +777,7 @@ myTesting <- function(this.row_name,balance_method,model_method,output_table){
 } 
 
 ##############################################
-####    The  24   Test Instances          ####
+####    The  32   Test Instances          ####
 ##############################################
 
 # The following are all the desired testing combinations. 
