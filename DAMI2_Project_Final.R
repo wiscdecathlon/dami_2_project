@@ -1,7 +1,7 @@
 
 #DAMI2 Project Report Code
 
-#2017 Nathan Brown
+#2017 Nathan Brown GNU GPL 
 
 #This code imports a data set, preprocesses, and runs a data mining experiment 
 #comparing methods for dealing with imbalanced data using Random Forests, AdaBooat
