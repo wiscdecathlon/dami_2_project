@@ -12,7 +12,7 @@ library(caret)
 library(pROC)
 
 #Loading the data
-data <-read.csv("data_mining.csv",header = TRUE, sep = "|",quote = "")
+data <-read.csv("ed_noID_data_mining_set.csv",header = TRUE, sep = "|",quote = "")
 
     ## Summary of Data ## 
     # > nrow(data)
